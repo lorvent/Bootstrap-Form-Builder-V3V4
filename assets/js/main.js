@@ -1,5 +1,5 @@
 require.config({
-  baseUrl: "assets/js/lib/",
+  baseUrl: "../vendors/bootstrap-form-builder/assets/js/lib/",
   paths: {
 	'text'  : "https://rawgithub.com/requirejs/text/latest/text",
 	'app'   : "..",
